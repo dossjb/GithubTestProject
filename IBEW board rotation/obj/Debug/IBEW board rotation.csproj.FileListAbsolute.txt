@@ -1,0 +1,9 @@
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\bin\Debug\IBEW board rotation.exe.config
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\bin\Debug\IBEW board rotation.exe
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\bin\Debug\IBEW board rotation.pdb
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\obj\Debug\IBEW_board_rotation.Form1.resources
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\obj\Debug\IBEW_board_rotation.Properties.Resources.resources
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\obj\Debug\IBEW board rotation.csproj.GenerateResource.Cache
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\obj\Debug\IBEW board rotation.exe
+c:\users\dossjb\documents\visual studio 2013\Projects\IBEW board rotation\IBEW board rotation\obj\Debug\IBEW board rotation.pdb
+C:\Users\dossjb\Documents\Visual Studio 2013\Projects\IBEW board rotation\IBEW board rotation\obj\Debug\IBEW board rotation.csprojResolveAssemblyReference.cache
